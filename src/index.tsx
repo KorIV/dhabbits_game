@@ -3,10 +3,7 @@ import ReactDOM from 'react-dom';
 
 const App = () => (
     <h1>
-        Me react app working!!<br></br>
-        А Женя -Хуй с горы!<br></br>
-        Очень хочет прогать...<br></br>
-        Давайте посмотрим, получится ли у него?{" "}
+        Me react app working!!<br></br>{" "}
         {new Date().toLocaleDateString()}
     </h1>
 );
